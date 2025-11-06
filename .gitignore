@@ -1,0 +1,7 @@
+output/*.rds
+output/*.png
+*.html
+.DS_Store
+.Rhistory
+collaborating_using_renv.Rproj
+.Rproj.user/
